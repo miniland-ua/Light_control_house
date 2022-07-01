@@ -1,0 +1,1489 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                              LoconetLib/commands.o (_ZN14HardwareSerial4readEv)
+C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+                              LoconetLib/CarSyst.o (Serial)
+C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o (main)
+C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                              C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o) (_ZN5Print5writeEPKhj)
+C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                              Sketch.o (millis)
+C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                              LoconetLib/LocoNet.o (pinMode)
+C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+                              C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o) (__cxa_pure_virtual)
+C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+                              C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o) (yield)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__subsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__ltsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__divsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__fixunssfsi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__floatunsisf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__gtsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__mulsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                              C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__unordsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                              LoconetLib/CarSyst.o (__divmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o) (__udivmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              LoconetLib/LocoNet.o (__tablejump2__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              LoconetLib/CarSyst.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              LoconetLib/CarSyst.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                              C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o) (__do_global_ctors)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                              LoconetLib/commands.o (__umulhisi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+                              C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o) (abort)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memmove.o)
+                              LoconetLib/utility/ln_buf.o (memmove)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memmove.o) (memcpy)
+C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a(eerd_byte.o)
+                              LoconetLib/CarSyst.o (eeprom_read_byte)
+C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a(eewr_byte.o)
+                              LoconetLib/CarSyst.o (eeprom_write_byte)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 LoconetLib/CarSyst.o
+ .data          0x00000000        0x0 LoconetLib/CarSyst.o
+ .bss           0x00000000        0x0 LoconetLib/CarSyst.o
+ .text._Z18SendUserCarMigratehhhhhh
+                0x00000000       0x54 LoconetLib/CarSyst.o
+ .text._Z20SendUserChargerServohb
+                0x00000000       0x2a LoconetLib/CarSyst.o
+ .text          0x00000000        0x0 LoconetLib/commands.o
+ .data          0x00000000        0x0 LoconetLib/commands.o
+ .bss           0x00000000        0x0 LoconetLib/commands.o
+ .text          0x00000000        0x0 LoconetLib/LocoNet.o
+ .data          0x00000000        0x0 LoconetLib/LocoNet.o
+ .bss           0x00000000        0x0 LoconetLib/LocoNet.o
+ .text._ZL22SwapSpeedZeroAndEmStoph
+                0x00000000       0x10 LoconetLib/LocoNet.o
+ .text._ZN12LocoNetClassC2Ev
+                0x00000000        0x2 LoconetLib/LocoNet.o
+ .rodata.str1.1
+                0x00000000      0x126 LoconetLib/LocoNet.o
+ .text._ZN12LocoNetClass12getStatusStrE9LN_STATUS
+                0x00000000       0x1c LoconetLib/LocoNet.o
+ .text._ZN12LocoNetClass4initEv
+                0x00000000        0x8 LoconetLib/LocoNet.o
+ .text._ZN12LocoNetClass9availableEv
+                0x00000000       0x16 LoconetLib/LocoNet.o
+ .text._ZN12LocoNetClass6lengthEv
+                0x00000000       0x1e LoconetLib/LocoNet.o
+ .text._ZN12LocoNetClass4sendEhhh
+                0x00000000       0x36 LoconetLib/LocoNet.o
+ .text._ZN12LocoNetClass4sendEhhhh
+                0x00000000       0x3a LoconetLib/LocoNet.o
+ .text._ZN12LocoNetClass11sendLongAckEh
+                0x00000000       0x3a LoconetLib/LocoNet.o
+ .text._ZN12LocoNetClass8getStatsEv
+                0x00000000        0x6 LoconetLib/LocoNet.o
+ .text._ZN12LocoNetClass11reportPowerEh
+                0x00000000       0x3e LoconetLib/LocoNet.o
+ .text._ZN12LocoNetClass13requestSwitchEjhh
+                0x00000000       0x28 LoconetLib/LocoNet.o
+ .text._ZN12LocoNetClass12reportSwitchEj
+                0x00000000       0x1e LoconetLib/LocoNet.o
+ .text._ZN12LocoNetClass12reportSensorEjh
+                0x00000000       0x2a LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass13updateAddressEjh
+                0x00000000       0x2c LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass11updateSpeedEhh
+                0x00000000       0x32 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass11updateStateE8TH_STATEh
+                0x00000000       0x24 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass13updateStatus1Ehh
+                0x00000000       0x4a LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass27updateDirectionAndFunctionsEhh
+                0x00000000       0xa2 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass19updateFunctions5to8Ehh
+                0x00000000       0x66 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass16updateSpeedStepsE14TH_SPEED_STEPSh
+                0x00000000       0x2e LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass19process100msActionsEv
+                0x00000000       0x46 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass4initEhhj
+                0x00000000       0x10 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass14processMessageEP5lnMsg
+                0x00000000      0x334 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass10getAddressEv
+                0x00000000        0x8 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass12stealAddressEj
+                0x00000000       0x62 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass10setAddressEj
+                0x00000000       0x62 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass13resumeAddressEjh
+                0x00000000       0x54 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass16freeAddressForceEj
+                0x00000000       0x62 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass15dispatchAddressEv
+                0x00000000       0x44 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass15dispatchAddressEj
+                0x00000000       0x62 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass14acquireAddressEv
+                0x00000000       0x3c LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass14releaseAddressEv
+                0x00000000       0x4a LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass11idleAddressEv
+                0x00000000       0x4a LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass11freeAddressEv
+                0x00000000       0x4a LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass8getSpeedEv
+                0x00000000        0xa LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass8setSpeedEh
+                0x00000000       0x68 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass12getDirectionEv
+                0x00000000        0x8 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass12setDirectionEh
+                0x00000000       0x4a LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass11getFunctionEh
+                0x00000000       0x42 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass11setFunctionEhh
+                0x00000000       0x82 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass20setDirFunc0to4DirectEh
+                0x00000000       0x36 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass17setFunc5to8DirectEh
+                0x00000000       0x36 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass8getStateEv
+                0x00000000        0x6 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass11getStateStrE8TH_STATE
+                0x00000000       0x5c LoconetLib/LocoNet.o
+ .progmem.gcc_sw_table._ZN20LocoNetThrottleClass11getStateStrE8TH_STATE
+                0x00000000       0x16 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass11getErrorStrE8TH_ERROR
+                0x00000000       0x46 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass13getSpeedStepsEv
+                0x00000000        0x6 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass13setSpeedStepsE14TH_SPEED_STEPS
+                0x00000000       0x42 LoconetLib/LocoNet.o
+ .text._ZN20LocoNetThrottleClass15getSpeedStepStrE14TH_SPEED_STEPS
+                0x00000000       0x46 LoconetLib/LocoNet.o
+ .text._ZN21LocoNetFastClockClass4initEhhh
+                0x00000000       0x24 LoconetLib/LocoNet.o
+ .text._ZN21LocoNetFastClockClass4pollEv
+                0x00000000       0x10 LoconetLib/LocoNet.o
+ .text._ZN21LocoNetFastClockClass8doNotifyEh
+                0x00000000       0x42 LoconetLib/LocoNet.o
+ .text._ZN21LocoNetFastClockClass14processMessageEP5lnMsg
+                0x00000000       0x76 LoconetLib/LocoNet.o
+ .text._ZN21LocoNetFastClockClass18process66msActionsEv
+                0x00000000       0xc0 LoconetLib/LocoNet.o
+ .text._ZN26LocoNetSystemVariableClass4initEhhjh
+                0x00000000       0x16 LoconetLib/LocoNet.o
+ .text._ZN26LocoNetSystemVariableClass13readSVStorageEj
+                0x00000000       0x20 LoconetLib/LocoNet.o
+ .text._ZN26LocoNetSystemVariableClass14writeSVStorageEjh
+                0x00000000       0x44 LoconetLib/LocoNet.o
+ .text._ZN26LocoNetSystemVariableClass16isSVStorageValidEj
+                0x00000000       0x10 LoconetLib/LocoNet.o
+ .text._ZN26LocoNetSystemVariableClass17CheckAddressRangeEjh
+                0x00000000       0x44 LoconetLib/LocoNet.o
+ .text._ZN26LocoNetSystemVariableClass12readSVNodeIdEv
+                0x00000000       0x34 LoconetLib/LocoNet.o
+ .text._ZN26LocoNetSystemVariableClass13writeSVNodeIdEj
+                0x00000000       0x2e LoconetLib/LocoNet.o
+ .text._ZN26LocoNetSystemVariableClass14processMessageEP5lnMsg
+                0x00000000      0x33c LoconetLib/LocoNet.o
+ .progmem.gcc_sw_table._ZN26LocoNetSystemVariableClass14processMessageEP5lnMsg
+                0x00000000       0x1e LoconetLib/LocoNet.o
+ .text._ZN26LocoNetSystemVariableClass20doDeferredProcessingEv
+                0x00000000       0xcc LoconetLib/LocoNet.o
+ .text._ZN14LocoNetCVClass20computeBytesFromPXCTER13UhlenbrockMsg
+                0x00000000       0x32 LoconetLib/LocoNet.o
+ .text._ZN14LocoNetCVClass20computePXCTFromBytesER13UhlenbrockMsg
+                0x00000000       0x38 LoconetLib/LocoNet.o
+ .text._ZN14LocoNetCVClass16makeLNCVresponseER13UhlenbrockMsghjjjh
+                0x00000000       0x50 LoconetLib/LocoNet.o
+ .text._ZN14LocoNetCVClass18processLNCVMessageEP5lnMsg
+                0x00000000      0x298 LoconetLib/LocoNet.o
+ .text._ZN14LocoNetCVClass10getAddressEhh
+                0x00000000        0xc LoconetLib/LocoNet.o
+ .data.LoconetStatusStrings
+                0x00000000        0xe LoconetLib/LocoNet.o
+ .text          0x00000000        0x0 LoconetLib/utility/ln_buf.o
+ .data          0x00000000        0x0 LoconetLib/utility/ln_buf.o
+ .bss           0x00000000        0x0 LoconetLib/utility/ln_buf.o
+ .text.getLnBufStats
+                0x00000000        0x6 LoconetLib/utility/ln_buf.o
+ .text          0x00000000        0x0 LoconetLib/utility/ln_sw_uart.o
+ .data          0x00000000        0x0 LoconetLib/utility/ln_sw_uart.o
+ .bss           0x00000000        0x0 LoconetLib/utility/ln_sw_uart.o
+ .text          0x00000000        0x0 LoconetLib/utility/utils.o
+ .data          0x00000000        0x0 LoconetLib/utility/utils.o
+ .bss           0x00000000        0x0 LoconetLib/utility/utils.o
+ .text.decodePeerData
+                0x00000000       0x50 LoconetLib/utility/utils.o
+ .text.encodePeerData
+                0x00000000       0x4c LoconetLib/utility/utils.o
+ .debug_info    0x00000000      0x26e LoconetLib/utility/utils.o
+ .debug_abbrev  0x00000000       0xdb LoconetLib/utility/utils.o
+ .debug_loc     0x00000000      0x222 LoconetLib/utility/utils.o
+ .debug_aranges
+                0x00000000       0x28 LoconetLib/utility/utils.o
+ .debug_ranges  0x00000000       0x18 LoconetLib/utility/utils.o
+ .debug_line    0x00000000      0x19e LoconetLib/utility/utils.o
+ .debug_str     0x00000000      0x25d LoconetLib/utility/utils.o
+ .comment       0x00000000       0x31 LoconetLib/utility/utils.o
+ .debug_frame   0x00000000       0x54 LoconetLib/utility/utils.o
+ .text          0x00000000        0x0 Sketch.o
+ .data          0x00000000        0x0 Sketch.o
+ .bss           0x00000000        0x0 Sketch.o
+ .bss.num_reset_list
+                0x00000000        0x7 Sketch.o
+ .bss.ena_reset_list
+                0x00000000        0x1 Sketch.o
+ .group         0x00000000        0x8 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .data          0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x00000000       0x44 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .group         0x00000000        0x8 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .group         0x00000000        0x8 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .group         0x00000000        0x8 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text          0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .data          0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .bss           0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .rodata._ZTV6Stream
+                0x00000000       0x12 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text          0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .data          0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .bss           0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .text.atexit   0x00000000        0x6 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .text._Z8setupUSBv
+                0x00000000        0x2 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .group         0x00000000        0x8 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .data          0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .bss           0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x00000000       0x4c C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000       0x1e C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000       0x16 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00000000       0x24 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x24 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x00000000       0x24 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x24 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x24 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x00000000       0x24 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x24 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x00000000      0x1d0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x00000000        0x6 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x24 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000        0xc C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .data          0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .bss           0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .text.micros   0x00000000       0x5c C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .text.delay    0x00000000       0x7a C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .text.delayMicroseconds
+                0x00000000       0x24 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .text          0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .data          0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .bss           0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .text          0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .data          0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .bss           0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x4 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_deleted_virtual
+                0x00000000        0x4 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .debug_info    0x00000000       0x94 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .debug_abbrev  0x00000000       0x64 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .debug_aranges
+                0x00000000       0x28 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .debug_ranges  0x00000000       0x18 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .debug_line    0x00000000       0xbf C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .debug_str     0x00000000      0x1d0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .comment       0x00000000       0x31 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .debug_frame   0x00000000       0x34 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .text          0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .data          0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .bss           0x00000000        0x0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .text.__empty  0x00000000        0x2 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .debug_info    0x00000000       0x3e C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .debug_abbrev  0x00000000       0x2a C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .debug_aranges
+                0x00000000       0x20 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .debug_ranges  0x00000000       0x10 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .debug_line    0x00000000       0x41 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .debug_str     0x00000000      0x15e C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .comment       0x00000000       0x31 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .debug_frame   0x00000000       0x24 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xcc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xdc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text.avr-libc.fplib
+                0x00000000       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text.avr-libc.fplib
+                0x00000000       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text.avr-libc.fplib
+                0x00000000       0x48 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text.avr-libc.fplib
+                0x00000000        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text.avr-libc.fplib
+                0x00000000        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text.avr-libc.fplib
+                0x00000000       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text.avr-libc.fplib
+                0x00000000       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text.avr-libc
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memmove.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memmove.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memmove.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a(eerd_byte.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a(eerd_byte.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a(eerd_byte.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a(eewr_byte.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a(eewr_byte.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a(eewr_byte.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800100         0x00000800         rw !x
+eeprom           0x00810000         0x00000400         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD LoconetLib/CarSyst.o
+LOAD LoconetLib/commands.o
+LOAD LoconetLib/LocoNet.o
+LOAD LoconetLib/utility/ln_buf.o
+LOAD LoconetLib/utility/ln_sw_uart.o
+LOAD LoconetLib/utility/utils.o
+LOAD Sketch.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a
+END GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2e28
+ *(.vectors)
+ .vectors       0x00000000       0x68 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.digital_pin_to_timer_PGM
+                0x00000068       0x14 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000068                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x0000007c       0x14 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x0000007c                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x00000090       0x14 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000090                digital_pin_to_port_PGM
+ .progmem.data.port_to_input_PGM
+                0x000000a4        0xa C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000a4                port_to_input_PGM
+ .progmem.data.port_to_output_PGM
+                0x000000ae        0xa C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000ae                port_to_output_PGM
+ .progmem.data.port_to_mode_PGM
+                0x000000b8        0xa C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000b8                port_to_mode_PGM
+                0x000000c2                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000c2                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000000c2        0x2 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000000c4                __ctors_end = .
+                0x000000c4                __dtors_start = .
+ *(.dtors)
+                0x000000c4                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000c4        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x000000c4                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000c4        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000d0       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x000000d0                __do_copy_data
+ .init4         0x000000e6       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x000000e6                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x000000f6       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                0x000000f6                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000010c        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000114        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000114                __vector_22
+                0x00000114                __vector_1
+                0x00000114                __vector_24
+                0x00000114                __vector_12
+                0x00000114                __bad_interrupt
+                0x00000114                __vector_6
+                0x00000114                __vector_3
+                0x00000114                __vector_23
+                0x00000114                __vector_25
+                0x00000114                __vector_13
+                0x00000114                __vector_17
+                0x00000114                __vector_7
+                0x00000114                __vector_5
+                0x00000114                __vector_4
+                0x00000114                __vector_9
+                0x00000114                __vector_2
+                0x00000114                __vector_21
+                0x00000114                __vector_15
+                0x00000114                __vector_8
+                0x00000114                __vector_14
+                0x00000114                __vector_20
+                0x00000118                . = ALIGN (0x2)
+ *(.text.*)
+ .text._Z14SendUserPacketPhh
+                0x00000118      0x134 LoconetLib/CarSyst.o
+                0x00000118                _Z14SendUserPacketPhh
+ .text._Z14SendOccupationhhb
+                0x0000024c      0x16a LoconetLib/CarSyst.o
+                0x0000024c                _Z14SendOccupationhhb
+ .text._Z10SendSwitchjbb
+                0x000003b6       0xa8 LoconetLib/CarSyst.o
+                0x000003b6                _Z10SendSwitchjbb
+ .text._Z13SendUserHellohhh
+                0x0000045e       0x6a LoconetLib/CarSyst.o
+                0x0000045e                _Z13SendUserHellohhh
+ .text._Z13SendUserResethh
+                0x000004c8       0x6c LoconetLib/CarSyst.o
+                0x000004c8                _Z13SendUserResethh
+ .text._Z10SendUserB0hhhb
+                0x00000534       0xc0 LoconetLib/CarSyst.o
+                0x00000534                _Z10SendUserB0hhhb
+ .text._Z10SendUserB2hhhb
+                0x000005f4       0xc0 LoconetLib/CarSyst.o
+                0x000005f4                _Z10SendUserB2hhhb
+ .text._Z17SendUserCarCreatehhhh
+                0x000006b4       0xbe LoconetLib/CarSyst.o
+                0x000006b4                _Z17SendUserCarCreatehhhh
+ .text._Z15logic_user_packPh
+                0x00000772      0x2f0 LoconetLib/CarSyst.o
+                0x00000772                _Z15logic_user_packPh
+ .text._ZL8comp_strPch
+                0x00000a62       0x2c LoconetLib/commands.o
+ .text._ZL10clean_buffv
+                0x00000a8e       0x1e LoconetLib/commands.o
+ .text._ZL13read_commandsh
+                0x00000aac       0x98 LoconetLib/commands.o
+ .text._ZL5pow10h
+                0x00000b44       0x34 LoconetLib/commands.o
+ .text._Z12command_readv
+                0x00000b78      0x762 LoconetLib/commands.o
+                0x00000b78                _Z12command_readv
+ .text._ZN12LocoNetClass8setTxPinEh
+                0x000012da       0x50 LoconetLib/LocoNet.o
+                0x000012da                _ZN12LocoNetClass8setTxPinEh
+ .text._ZN12LocoNetClass4initEh
+                0x0000132a       0x24 LoconetLib/LocoNet.o
+                0x0000132a                _ZN12LocoNetClass4initEh
+ .text._ZN12LocoNetClass7receiveEv
+                0x0000134e        0x6 LoconetLib/LocoNet.o
+                0x0000134e                _ZN12LocoNetClass7receiveEv
+ .text._ZN12LocoNetClass4sendEP5lnMsgh
+                0x00001354       0x6c LoconetLib/LocoNet.o
+                0x00001354                _ZN12LocoNetClass4sendEP5lnMsgh
+ .text._ZN12LocoNetClass4sendEP5lnMsg
+                0x000013c0        0x8 LoconetLib/LocoNet.o
+                0x000013c0                _ZN12LocoNetClass4sendEP5lnMsg
+ .text._ZN12LocoNetClass26processSwitchSensorMessageEP5lnMsg
+                0x000013c8      0x27a LoconetLib/LocoNet.o
+                0x000013c8                _ZN12LocoNetClass26processSwitchSensorMessageEP5lnMsg
+ .text.initLnBuf
+                0x00001642        0xc LoconetLib/utility/ln_buf.o
+                0x00001642                initLnBuf
+ .text.recvLnMsg
+                0x0000164e      0x1cc LoconetLib/utility/ln_buf.o
+                0x0000164e                recvLnMsg
+ .text.getLnMsgSize
+                0x0000181a       0x28 LoconetLib/utility/ln_buf.o
+                0x0000181a                getLnMsgSize
+ .text._Z15setTxPortAndPinPVhh
+                0x00001842        0xe LoconetLib/utility/ln_sw_uart.o
+                0x00001842                _Z15setTxPortAndPinPVhh
+ .text.__vector_10
+                0x00001850       0x68 LoconetLib/utility/ln_sw_uart.o
+                0x00001850                __vector_10
+ .text.__vector_11
+                0x000018b8      0x330 LoconetLib/utility/ln_sw_uart.o
+                0x000018b8                __vector_11
+ .text._Z19initLocoNetHardwareP5LnBuf
+                0x00001be8       0x5a LoconetLib/utility/ln_sw_uart.o
+                0x00001be8                _Z19initLocoNetHardwareP5LnBuf
+ .text._Z20sendLocoNetPacketTryP5lnMsgh
+                0x00001c42      0x168 LoconetLib/utility/ln_sw_uart.o
+                0x00001c42                _Z20sendLocoNetPacketTryP5lnMsgh
+ .text.notifyUserPacket
+                0x00001daa       0xf2 Sketch.o
+                0x00001daa                notifyUserPacket
+ .text.setup    0x00001e9c       0x3a Sketch.o
+                0x00001e9c                setup
+ .text.loop     0x00001ed6       0xe8 Sketch.o
+                0x00001ed6                loop
+ .text.notifyPower
+                0x00001fbe      0x100 Sketch.o
+                0x00001fbe                notifyPower
+ .text.notifySensor
+                0x000020be      0x148 Sketch.o
+                0x000020be                notifySensor
+ .text.notifySwitchRequest
+                0x00002206      0x150 Sketch.o
+                0x00002206                notifySwitchRequest
+ .text._ZN14HardwareSerial9availableEv
+                0x00002356       0x1a C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00002356                _ZN14HardwareSerial9availableEv
+ .text._ZN14HardwareSerial4peekEv
+                0x00002370       0x1c C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00002370                _ZN14HardwareSerial4peekEv
+ .text._ZN14HardwareSerial4readEv
+                0x0000238c       0x28 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000238c                _ZN14HardwareSerial4readEv
+ .text._ZN14HardwareSerial17availableForWriteEv
+                0x000023b4       0x24 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000023b4                _ZN14HardwareSerial17availableForWriteEv
+ .text._Z14serialEventRunv
+                0x000023d8       0x24 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000023d8                _Z14serialEventRunv
+ .text._ZN14HardwareSerial17_tx_udr_empty_irqEv
+                0x000023fc       0x56 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000023fc                _ZN14HardwareSerial17_tx_udr_empty_irqEv
+ .text._ZN14HardwareSerial5flushEv
+                0x00002452       0x60 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00002452                _ZN14HardwareSerial5flushEv
+ .text._ZN14HardwareSerial5writeEh
+                0x000024b2       0xc8 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000024b2                _ZN14HardwareSerial5writeEh
+ .text._ZN14HardwareSerial5beginEmh
+                0x0000257a       0xc0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000257a                _ZN14HardwareSerial5beginEmh
+ .text._Z41__static_initialization_and_destruction_0ii
+                0x0000263a       0x64 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text.__vector_18
+                0x0000269e       0x70 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x0000269e                __vector_18
+ .text.__vector_19
+                0x0000270e       0x4c C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x0000270e                __vector_19
+ .text._Z17Serial0_availablev
+                0x0000275a       0x14 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x0000275a                _Z17Serial0_availablev
+ .text._GLOBAL__sub_I___vector_18
+                0x0000276e        0xe C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text.initVariant
+                0x0000277c        0x2 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+                0x0000277c                initVariant
+ .text.main     0x0000277e       0x1e C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+                0x0000277e                main
+ .text._ZN5Print5writeEPKhj
+                0x0000279c       0x60 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x0000279c                _ZN5Print5writeEPKhj
+ .text._ZN5Print5printEPKc
+                0x000027fc       0x2c C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000027fc                _ZN5Print5printEPKc
+ .text._ZN5Print5printEc
+                0x00002828       0x10 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x00002828                _ZN5Print5printEc
+ .text._ZN5Print7printlnEv
+                0x00002838       0x18 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x00002838                _ZN5Print7printlnEv
+ .text._ZN5Print7printlnEPKc
+                0x00002850       0x24 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x00002850                _ZN5Print7printlnEPKc
+ .text._ZN5Print11printNumberEmh
+                0x00002874       0xcc C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x00002874                _ZN5Print11printNumberEmh
+ .text._ZN5Print5printEli
+                0x00002940       0x78 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x00002940                _ZN5Print5printEli
+ .text._ZN5Print5printEii
+                0x000029b8       0x10 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000029b8                _ZN5Print5printEii
+ .text._ZN5Print7printlnEii
+                0x000029c8       0x24 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000029c8                _ZN5Print7printlnEii
+ .text._ZN5Print5printEmi
+                0x000029ec       0x1e C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000029ec                _ZN5Print5printEmi
+ .text._ZN5Print5printEhi
+                0x00002a0a       0x10 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x00002a0a                _ZN5Print5printEhi
+ .text._ZN5Print7printlnEhi
+                0x00002a1a       0x24 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x00002a1a                _ZN5Print7printlnEhi
+ .text._ZN5Print5printEji
+                0x00002a3e        0xe C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x00002a3e                _ZN5Print5printEji
+ .text.__vector_16
+                0x00002a4c       0x96 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x00002a4c                __vector_16
+ .text.millis   0x00002ae2       0x18 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x00002ae2                millis
+ .text.init     0x00002afa       0x76 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x00002afa                init
+ .text.turnOffPWM
+                0x00002b70       0x5e C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x00002bce       0x7e C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00002bce                pinMode
+ .text.digitalWrite
+                0x00002c4c       0x62 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00002c4c                digitalWrite
+ .text.digitalRead
+                0x00002cae       0x56 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00002cae                digitalRead
+ .text.libgcc.div
+                0x00002d04       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                0x00002d04                _div
+                0x00002d04                __divmodhi4
+ .text.libgcc.div
+                0x00002d2c       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x00002d2c                __udivmodsi4
+ .text.libgcc   0x00002d70        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00002d70                __tablejump2__
+ .text.libgcc.mul
+                0x00002d7c       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                0x00002d7c                __umulhisi3
+ .text.libgcc.div
+                0x00002d9a       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x00002d9a                __udivmodhi4
+ .text.avr-libc
+                0x00002dc2       0x24 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memmove.o)
+                0x00002dc2                memmove
+ .text.avr-libc
+                0x00002de6       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                0x00002de6                memcpy
+ .text.avr-libc
+                0x00002df8       0x10 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a(eerd_byte.o)
+                0x00002df8                eeprom_read_byte
+ .text.avr-libc
+                0x00002e08       0x1c C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a(eewr_byte.o)
+                0x00002e08                eeprom_write_byte
+                0x00002e0a                eeprom_write_r18
+                0x00002e24                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002e24        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00002e24                _exit
+                0x00002e24                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002e24        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002e28                _etext = .
+
+.data           0x00800100      0x282 load address 0x00002e28
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data._ZL8old_data
+                0x00800100        0x1 LoconetLib/commands.o
+ .data.loconet_list
+                0x00800101       0x1e Sketch.o
+                0x00800101                loconet_list
+ .data.ena_B_comm
+                0x0080011f        0x1 Sketch.o
+                0x0080011f                ena_B_comm
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00800120      0x11c LoconetLib/CarSyst.o
+                                0x123 (size before relaxing)
+ .rodata.str1.1
+                0x0080023c       0x94 LoconetLib/commands.o
+                                 0x9b (size before relaxing)
+ .rodata.str1.1
+                0x008002d0       0x90 Sketch.o
+                                 0xb3 (size before relaxing)
+ .rodata._ZTV14HardwareSerial
+                0x00800360       0x12 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00800360                _ZTV14HardwareSerial
+ .rodata.str1.1
+                0x00800372        0xf C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ *(.gnu.linkonce.r*)
+                0x00800382                . = ALIGN (0x2)
+ *fill*         0x00800381        0x1 
+                0x00800382                _edata = .
+                0x00800382                PROVIDE (__data_end, .)
+
+.bss            0x00800382      0x3d1
+                0x00800382                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.cnt_car   0x00800382        0x1 LoconetLib/CarSyst.o
+                0x00800382                cnt_car
+ .bss._ZL10ena_w_buff
+                0x00800383        0x1 LoconetLib/commands.o
+ .bss._ZL10cnt_buff_r
+                0x00800384        0x1 LoconetLib/commands.o
+ .bss._ZL10cnt_buff_w
+                0x00800385        0x1 LoconetLib/commands.o
+ .bss._ZL9buff_read
+                0x00800386       0x40 LoconetLib/commands.o
+ .bss.LocoNet   0x008003c6       0x8f LoconetLib/LocoNet.o
+                0x008003c6                LocoNet
+ .bss.txPin     0x00800455        0x1 LoconetLib/utility/ln_sw_uart.o
+                0x00800455                txPin
+ .bss.txPort    0x00800456        0x2 LoconetLib/utility/ln_sw_uart.o
+                0x00800456                txPort
+ .bss.lnTxSuccess
+                0x00800458        0x1 LoconetLib/utility/ln_sw_uart.o
+                0x00800458                lnTxSuccess
+ .bss.lnTxLength
+                0x00800459        0x1 LoconetLib/utility/ln_sw_uart.o
+                0x00800459                lnTxLength
+ .bss.lnTxIndex
+                0x0080045a        0x1 LoconetLib/utility/ln_sw_uart.o
+                0x0080045a                lnTxIndex
+ .bss.lnTxData  0x0080045b        0x2 LoconetLib/utility/ln_sw_uart.o
+                0x0080045b                lnTxData
+ .bss.lnRxBuffer
+                0x0080045d        0x2 LoconetLib/utility/ln_sw_uart.o
+                0x0080045d                lnRxBuffer
+ .bss.lnCompareTarget
+                0x0080045f        0x2 LoconetLib/utility/ln_sw_uart.o
+                0x0080045f                lnCompareTarget
+ .bss.lnCurrentByte
+                0x00800461        0x1 LoconetLib/utility/ln_sw_uart.o
+                0x00800461                lnCurrentByte
+ .bss.lnBitCount
+                0x00800462        0x1 LoconetLib/utility/ln_sw_uart.o
+                0x00800462                lnBitCount
+ .bss.lnState   0x00800463        0x1 LoconetLib/utility/ln_sw_uart.o
+                0x00800463                lnState
+ .bss.led_tmr   0x00800464        0x4 Sketch.o
+                0x00800464                led_tmr
+ .bss.LnPacket  0x00800468        0x2 Sketch.o
+                0x00800468                LnPacket
+ .bss._ZL8rcv_data
+                0x0080046a       0x10 Sketch.o
+ .bss.timer_ignore
+                0x0080047a        0x2 Sketch.o
+                0x0080047a                timer_ignore
+ .bss._ZL16ena_timer_ignore
+                0x0080047c        0x1 Sketch.o
+ .bss.outs      0x0080047d       0xe0 Sketch.o
+                0x0080047d                outs
+ .bss.D         0x0080055d      0x150 Sketch.o
+                0x0080055d                D
+ .bss.Serial    0x008006ad       0x9d C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x008006ad                Serial
+ .bss.timer0_fract
+                0x0080074a        0x1 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .bss.timer0_millis
+                0x0080074b        0x4 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x0080074b                timer0_millis
+ .bss.timer0_overflow_count
+                0x0080074f        0x4 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x0080074f                timer0_overflow_count
+ *(COMMON)
+                0x00800753                PROVIDE (__bss_end, .)
+                0x00002e28                __data_load_start = LOADADDR (.data)
+                0x000030aa                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800753        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800753                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 LoconetLib/CarSyst.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 LoconetLib/commands.o
+ .comment       0x00000030       0x31 LoconetLib/LocoNet.o
+ .comment       0x00000030       0x31 LoconetLib/utility/ln_buf.o
+ .comment       0x00000030       0x31 LoconetLib/utility/ln_sw_uart.o
+ .comment       0x00000030       0x31 Sketch.o
+ .comment       0x00000030       0x31 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .comment       0x00000030       0x31 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .comment       0x00000030       0x31 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .comment       0x00000030       0x31 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .comment       0x00000030       0x31 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .comment       0x00000030       0x31 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x680
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x70 LoconetLib/CarSyst.o
+ .debug_aranges
+                0x00000070       0x40 LoconetLib/commands.o
+ .debug_aranges
+                0x000000b0      0x268 LoconetLib/LocoNet.o
+ .debug_aranges
+                0x00000318       0x38 LoconetLib/utility/ln_buf.o
+ .debug_aranges
+                0x00000350       0x40 LoconetLib/utility/ln_sw_uart.o
+ .debug_aranges
+                0x00000390       0x48 Sketch.o
+ .debug_aranges
+                0x000003d8       0x68 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_aranges
+                0x00000440       0x50 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_aranges
+                0x00000490       0x38 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_aranges
+                0x000004c8       0xf8 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_aranges
+                0x000005c0       0x48 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_aranges
+                0x00000608       0x38 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_aranges
+                0x00000640       0x20 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a(eerd_byte.o)
+ .debug_aranges
+                0x00000660       0x20 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a(eewr_byte.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x13de5
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_info    0x000005f4     0x22de LoconetLib/CarSyst.o
+ .debug_info    0x000028d2      0xeb2 LoconetLib/commands.o
+ .debug_info    0x00003784     0x5312 LoconetLib/LocoNet.o
+ .debug_info    0x00008a96     0x11ec LoconetLib/utility/ln_buf.o
+ .debug_info    0x00009c82     0x14ab LoconetLib/utility/ln_sw_uart.o
+ .debug_info    0x0000b12d     0x1f16 Sketch.o
+ .debug_info    0x0000d043     0x1eb2 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_info    0x0000eef5     0x1b26 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_info    0x00010a1b      0x246 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_info    0x00010c61     0x27ac C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_info    0x0001340d      0x2c9 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_info    0x000136d6      0x5db C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_info    0x00013cb1       0x9a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a(eerd_byte.o)
+ .debug_info    0x00013d4b       0x9a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a(eewr_byte.o)
+
+.debug_abbrev   0x00000000     0x2871
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2      0x30f LoconetLib/CarSyst.o
+ .debug_abbrev  0x000008b1      0x224 LoconetLib/commands.o
+ .debug_abbrev  0x00000ad5      0x59f LoconetLib/LocoNet.o
+ .debug_abbrev  0x00001074      0x1c8 LoconetLib/utility/ln_buf.o
+ .debug_abbrev  0x0000123c      0x2a2 LoconetLib/utility/ln_sw_uart.o
+ .debug_abbrev  0x000014de      0x39a Sketch.o
+ .debug_abbrev  0x00001878      0x450 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_abbrev  0x00001cc8      0x3cd C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_abbrev  0x00002095      0x12e C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_abbrev  0x000021c3      0x3db C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_abbrev  0x0000259e      0x162 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_abbrev  0x00002700      0x149 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_abbrev  0x00002849       0x14 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a(eerd_byte.o)
+ .debug_abbrev  0x0000285d       0x14 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a(eewr_byte.o)
+
+.debug_line     0x00000000     0x505e
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x134 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_line    0x00000134      0x7cb LoconetLib/CarSyst.o
+ .debug_line    0x000008ff      0x679 LoconetLib/commands.o
+ .debug_line    0x00000f78     0x1c70 LoconetLib/LocoNet.o
+ .debug_line    0x00002be8      0x276 LoconetLib/utility/ln_buf.o
+ .debug_line    0x00002e5e      0x4ad LoconetLib/utility/ln_sw_uart.o
+ .debug_line    0x0000330b      0x6a2 Sketch.o
+ .debug_line    0x000039ad      0x572 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_line    0x00003f1f      0x2b1 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_line    0x000041d0      0x16f C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_line    0x0000433f      0x707 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_line    0x00004a46      0x2a8 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_line    0x00004cee      0x258 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_line    0x00004f46       0x7a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a(eerd_byte.o)
+ .debug_line    0x00004fc0       0x9e C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a(eewr_byte.o)
+
+.debug_frame    0x00000000     0x1434
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x220 LoconetLib/CarSyst.o
+ .debug_frame   0x00000220       0x8c LoconetLib/commands.o
+ .debug_frame   0x000002ac      0x7dc LoconetLib/LocoNet.o
+ .debug_frame   0x00000a88       0x70 LoconetLib/utility/ln_buf.o
+ .debug_frame   0x00000af8       0xf0 LoconetLib/utility/ln_sw_uart.o
+ .debug_frame   0x00000be8       0xec Sketch.o
+ .debug_frame   0x00000cd4      0x108 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_frame   0x00000ddc       0xfc C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_frame   0x00000ed8       0x54 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_frame   0x00000f2c      0x3b0 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_frame   0x000012dc       0xdc C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_frame   0x000013b8       0x7c C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+
+.debug_str      0x00000000     0x450e
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_str     0x00000208      0xe53 LoconetLib/CarSyst.o
+                                0xf6d (size before relaxing)
+ .debug_str     0x0000105b       0xeb LoconetLib/commands.o
+                                0x4f1 (size before relaxing)
+ .debug_str     0x00001146     0x177c LoconetLib/LocoNet.o
+                               0x24fc (size before relaxing)
+ .debug_str     0x000028c2       0xd9 LoconetLib/utility/ln_buf.o
+                                0x78d (size before relaxing)
+ .debug_str     0x0000299b       0xe9 LoconetLib/utility/ln_sw_uart.o
+                                0x9b8 (size before relaxing)
+ .debug_str     0x00002a84      0x10f Sketch.o
+                                0xf13 (size before relaxing)
+ .debug_str     0x00002b93     0x1317 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                               0x1634 (size before relaxing)
+ .debug_str     0x00003eaa       0xca C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+                               0x1427 (size before relaxing)
+ .debug_str     0x00003f74       0x43 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+                                0x2df (size before relaxing)
+ .debug_str     0x00003fb7      0x32b C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                               0x1261 (size before relaxing)
+ .debug_str     0x000042e2      0x1bd C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                                0x25f (size before relaxing)
+ .debug_str     0x0000449f       0x6f C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                                0x2c4 (size before relaxing)
+
+.debug_loc      0x00000000     0x779a
+ *(.debug_loc)
+ .debug_loc     0x00000000      0xc08 LoconetLib/CarSyst.o
+ .debug_loc     0x00000c08      0x365 LoconetLib/commands.o
+ .debug_loc     0x00000f6d     0x3678 LoconetLib/LocoNet.o
+ .debug_loc     0x000045e5      0x1f1 LoconetLib/utility/ln_buf.o
+ .debug_loc     0x000047d6      0x31d LoconetLib/utility/ln_sw_uart.o
+ .debug_loc     0x00004af3      0x50a Sketch.o
+ .debug_loc     0x00004ffd      0x450 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_loc     0x0000544d      0x245 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_loc     0x00005692     0x198d C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_loc     0x0000701f      0x23f C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_loc     0x0000725e      0x53c C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x6b0
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x78 LoconetLib/CarSyst.o
+ .debug_ranges  0x00000078       0x98 LoconetLib/commands.o
+ .debug_ranges  0x00000110      0x2d8 LoconetLib/LocoNet.o
+ .debug_ranges  0x000003e8       0x28 LoconetLib/utility/ln_buf.o
+ .debug_ranges  0x00000410       0x30 LoconetLib/utility/ln_sw_uart.o
+ .debug_ranges  0x00000440       0x38 Sketch.o
+ .debug_ranges  0x00000478       0x58 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_ranges  0x000004d0       0x40 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_ranges  0x00000510       0x28 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_ranges  0x00000538      0x118 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_ranges  0x00000650       0x38 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_ranges  0x00000688       0x28 C:\Users\Donec\DOWNLO~1\WINDOW~1\work\Yaroslav\CARSYS~3\LOCONE~1.2(T\LOCONE~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(LocoNetShield.elf elf32-avr)
+LOAD linker stubs
